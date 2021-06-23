@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sqlite3
+import error_post_chatwork
 
 def get_userdata(todaymember):
     print(todaymember)
@@ -11,4 +12,8 @@ def get_userdata(todaymember):
     sql = 'SELECT * FROM user where cname = "' + todaymember + '";'
     cur.execute(sql)
     userlist = cur.fetchone()
+    if not userlist:
+        print('error')
+        error_post_chatwork.error_post_chatwork()
+        exit()
     return userlist

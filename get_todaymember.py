@@ -29,15 +29,15 @@ def get_todaymember():
 
     dt_now = datetime.datetime.now()
 
-    nowdata = dt_now.strftime('%-m月%-d日')
+    #nowdata = dt_now.strftime('%-m月%-d日')
 
-    #nowdata = "1月1日"
+    nowdata = "1月1日"
     
     try:
         cell = sheet.find(nowdata)
     except:
         print('error')
-        error_post_chatwork.error_post_chatwork()
+        #error_post_chatwork.error_post_chatwork()
         exit()
     todaymember = sheet.cell(cell.row, cell.col-1).value
     
