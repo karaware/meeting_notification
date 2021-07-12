@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meeting-notification-317702",
+  "private_key_id": "d40ac5400d60477c3182c6aef48cfadf88f20698",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZ62GYRQSk8adg\ngQyF6kUxVjvnoJJN+dvwYM+Mr7GMfekk/FNPgfwfyUccKxGVFkMlOjhPxR4Zb9AF\nvmoWv6A/9iqDiI2CsoZxVhgfAF8trdDudfaSZZ/RLyfMdMqyycNINCt6N5PB+B52\nrO0EBXpj0sDpQtbCPFiK/euxkBxiYsdEG74o7pTU82OwW4LbJlxFOSmbvE85AYX1\nwr+xsy8iKbU9KDBShHIp1JvbbOdvcvXJHNQIV2Hb+8BNsSNLoUUqm+9MfAqA4TFL\nUdOah6jzRdeChOba8GJFOLzGFqQmIUf1Rp52LGeXojXoTdvCIV/37b1Nraf/x10Q\nAY7iacWdAgMBAAECggEAAK+x48p6QURUxDdwoQ6KOT8ner54URaNKSyk4Re/wpmC\n6nYak3cgiPKxVQotrzKEWgTc67z+Y0Ye3/9bH8c3hS8/r9P2RIfoNHzFueARn95n\neHJjdgKSUxS68ChOAYVXjOd2wf1hOCZeS8r8bbU2tXaS21xo7YoTHVAlz3rzG+9o\nnbtvaKUQGvAvhLtjMjmAi7lNko9JlFQaHCEu4KTvLUAFbgsmWqMue5xjK8XZbSJR\njyuskkJ+0yw7BeP1A+onry5m+AGDycDup+hVD1JZAE4824+7nGDvGEBtZB9Roijg\nsld7AMgkTORtfCPlfjOeeYOASKfWiLOEL8mEQu68AQKBgQD1AK3PjMbEKWMJNcGw\nN1mO9CLyugluOiQ405gwz1EvYs8YfB3Dn0OhHsK/nftcdA7yazK6eO3oErvAB3KD\nMuNDFRr7XXyWoVrfSVmgD31Hex4iMO8Hjx+Hr5qBx31R9VI9P5q4dewiCSEtPcft\nvBjJwNkc1mXFHCcFYgMpOLZ2oQKBgQDjs31impQIPBJEgOtGt8VlmDhT07ui9dVQ\n0K/CMv0C/d477fcUKGsWA4pw4OQmCpc/Cgcx88ta8R6EluO0GcVzhwJBUZ91xdM1\nLuIqDMSF3k7yl0149NCDx9LEPDrdQYoCv1/P2KEpe72W2HAPJGf++xRhwophOmK2\nzpwar+g5fQKBgQDP5i+Xe2H/ew8q9Y7SNWWtxMUTK4JtIrEx93uhj4rYpwQNRuUK\n5s7AnhWr/CccIO++DfESAyP+VkczgB5P7pKijfpDauUZ/Pnbl6aSCBLK4VKEuPlc\ndLrQrNZzYhCZx45totdrx8UEbLLWbSKGPaLbMOYLbnMVe/owuybrh9BtgQKBgQCK\nv/H0ptrzlZ9QDPrRMeRgPvx74DajW4er4i5neOiB7S6BeEUqDGMMnAW9ONztbWCy\ncirmPne5J9p/0u5X7ahK+IbgRJuViYFlE/eOxg7uwAN9gcMcpJl248nD+CuqbWhq\nujDpF0lFXPivNZ47K+UPE/Jci84E5y4F1Sp8fJpWhQKBgG/3O4A2bhAAOG4XjKIv\n3BbCi2YfFzPbaIYKQGmZOwW4BXJOQdeW1NFZit4feiemVk+ini/h4rBCLdS3Pn8b\nGsJ28ppFA5prEnVWVB+aAY7kwNHfqT+aSLhbz4FlN48CYtwm//+oVYgv1oCqAdYt\nyNS+/rswjjeSyypaTj64ihuu\n-----END PRIVATE KEY-----\n",
+  "client_email": "meeting-notification@meeting-notification-317702.iam.gserviceaccount.com",
+  "client_id": "100414866546912574165",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meeting-notification%40meeting-notification-317702.iam.gserviceaccount.com"
+}

@@ -5,7 +5,6 @@ import sqlite3
 import error_post_chatwork
 
 def get_userdata(todaymember):
-    print(todaymember)
     dbname = 'meeting_notification.sqlite3'
     conn = sqlite3.connect(dbname)
     cur = conn.cursor()
